@@ -5,4 +5,8 @@
     .container {
         margin: 10px;
     }
+
+    h3 {
+        margin: auto;
+    }
 }
